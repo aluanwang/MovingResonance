@@ -1,0 +1,45 @@
+word \u602a\u7269;
+word \u5357\u74dc;
+word \u760b\u5b50;
+word \u9670\u68ee;
+word \u5973\u5deb;
+word \u881f\u71ed;
+word \u706b\u7130;
+word \u4e0a\u5e1d;
+word \u90aa\u60e1;
+word \u8718\u86db;
+
+word \u9b3c\u9b42;
+word \u9b54\u8c46;
+word \u942e\u5200;
+word \u8840\u8165;
+word \u746a\u9e97;
+word \u5091\u514b;
+word \u6383\u628a;
+word \u8759\u8760;
+word \u9ed1\u591c;
+word \u5438\u8840;
+
+word \u6b7b\u4ea1;
+word \u6050\u6016;
+word \u5730\u7344;
+word \u626e\u88dd;
+word \u672b\u65e5;
+word \u9b54\u5e7b;
+word \u6bad\u5c4d;
+word \u7cd6\u679c;
+word \u7cd5\u9905;
+word \u7cd6\u6f3f;
+
+word \u7cbe\u9748;
+word \u9ab7\u9acf;
+word \u51f1\u85a9;
+word \u58b3\u5893;
+word \u624b\u69cd;
+word \u7b26\u5492;
+word \u5927\u849c;
+word \u68fa\u6750;
+word \u72fc\u4eba;
+word \u9280\u5f48;
+
+
